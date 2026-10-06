@@ -1,2 +1,3 @@
-# bacanaplay
-Landing published by Deploy Service
+# BacanaPlay
+
+Published by Deploy Service.
